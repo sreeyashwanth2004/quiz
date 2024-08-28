@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const App = () => {
+const QuizApp = () => {
   // Sample questions
   const questions = [
     {
@@ -75,4 +75,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default QuizApp;
